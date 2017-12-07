@@ -1,0 +1,6 @@
+c:\users\павлове\documents\visual studio 2017\Projects\Pract_StructEnum\Pract_StructEnum\bin\Debug\Pract_StructEnum.exe.config
+c:\users\павлове\documents\visual studio 2017\Projects\Pract_StructEnum\Pract_StructEnum\bin\Debug\Pract_StructEnum.exe
+c:\users\павлове\documents\visual studio 2017\Projects\Pract_StructEnum\Pract_StructEnum\bin\Debug\Pract_StructEnum.pdb
+c:\users\павлове\documents\visual studio 2017\Projects\Pract_StructEnum\Pract_StructEnum\obj\Debug\Pract_StructEnum.csprojResolveAssemblyReference.cache
+c:\users\павлове\documents\visual studio 2017\Projects\Pract_StructEnum\Pract_StructEnum\obj\Debug\Pract_StructEnum.exe
+c:\users\павлове\documents\visual studio 2017\Projects\Pract_StructEnum\Pract_StructEnum\obj\Debug\Pract_StructEnum.pdb
